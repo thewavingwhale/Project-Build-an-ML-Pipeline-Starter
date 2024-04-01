@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a9b63bc2262040b9b70f36edabf8f9e3/artifacts
+end_time: 1712007355248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9b63bc2262040b9b70f36edabf8f9e3
+run_name: likeable-foal-181
+run_uuid: a9b63bc2262040b9b70f36edabf8f9e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712007326243
+status: 3
+tags: []
+user_id: jgroat

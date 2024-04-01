@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d0a0fdfd9c4c4e8bb2c49dac85f15577/artifacts
+end_time: 1712009724554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0a0fdfd9c4c4e8bb2c49dac85f15577
+run_name: awesome-conch-755
+run_uuid: d0a0fdfd9c4c4e8bb2c49dac85f15577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009723108
+status: 4
+tags: []
+user_id: jgroat

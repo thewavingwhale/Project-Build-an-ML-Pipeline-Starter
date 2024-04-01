@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/48d66b19d4d74e3e8452fb55c657537f/artifacts
+end_time: 1712010598085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48d66b19d4d74e3e8452fb55c657537f
+run_name: honorable-quail-890
+run_uuid: 48d66b19d4d74e3e8452fb55c657537f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712010519204
+status: 3
+tags: []
+user_id: jgroat

@@ -1,0 +1,14 @@
+2024-04-01 17:52:07,839 Downloading training set artifact
+2024-04-01 17:52:08,498 Minimum price: 10, Maximum price: 350
+2024-04-01 17:52:08,508 Preparing sklearn pipeline
+2024-04-01 17:52:08,509 Fitting
+2024-04-01 17:52:20,182 Scoring
+2024-04-01 17:52:20,268 Score: 0.5339406885517419
+2024-04-01 17:52:20,269 MAE: 33.565065789473685
+2024-04-01 17:52:20,269 Exporting model
+Traceback (most recent call last):
+  File "/home/jgroat/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 294, in <module>
+    go(args)
+  File "/home/jgroat/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 96, in go
+    signature = infer_signature(X_val, y_pred)
+NameError: name 'infer_signature' is not defined

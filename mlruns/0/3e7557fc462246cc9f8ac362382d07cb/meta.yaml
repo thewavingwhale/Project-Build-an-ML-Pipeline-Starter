@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3e7557fc462246cc9f8ac362382d07cb/artifacts
+end_time: 1712010598236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e7557fc462246cc9f8ac362382d07cb
+run_name: rambunctious-bee-237
+run_uuid: 3e7557fc462246cc9f8ac362382d07cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712010516007
+status: 3
+tags: []
+user_id: jgroat

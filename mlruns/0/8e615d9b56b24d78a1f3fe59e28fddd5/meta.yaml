@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8e615d9b56b24d78a1f3fe59e28fddd5/artifacts
+end_time: 1712012351628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e615d9b56b24d78a1f3fe59e28fddd5
+run_name: learned-chimp-367
+run_uuid: 8e615d9b56b24d78a1f3fe59e28fddd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712012326923
+status: 3
+tags: []
+user_id: jgroat

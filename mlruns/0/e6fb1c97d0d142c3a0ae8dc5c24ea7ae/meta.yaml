@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e6fb1c97d0d142c3a0ae8dc5c24ea7ae/artifacts
+end_time: 1712012412968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6fb1c97d0d142c3a0ae8dc5c24ea7ae
+run_name: bald-bug-814
+run_uuid: e6fb1c97d0d142c3a0ae8dc5c24ea7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712012387951
+status: 3
+tags: []
+user_id: jgroat

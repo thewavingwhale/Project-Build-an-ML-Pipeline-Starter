@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a6d8e5fde23844de9953a43ed593110a/artifacts
+end_time: 1712013830909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6d8e5fde23844de9953a43ed593110a
+run_name: enchanting-ray-965
+run_uuid: a6d8e5fde23844de9953a43ed593110a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712013773579
+status: 3
+tags: []
+user_id: jgroat

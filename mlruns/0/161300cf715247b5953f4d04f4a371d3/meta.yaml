@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/161300cf715247b5953f4d04f4a371d3/artifacts
+end_time: 1712009617690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 161300cf715247b5953f4d04f4a371d3
+run_name: burly-crane-112
+run_uuid: 161300cf715247b5953f4d04f4a371d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009614447
+status: 4
+tags: []
+user_id: jgroat

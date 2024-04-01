@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4f24911f8e24bd49dfe1db3cf1dc4db/artifacts
+end_time: 1712009172960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4f24911f8e24bd49dfe1db3cf1dc4db
+run_name: sedate-hound-503
+run_uuid: e4f24911f8e24bd49dfe1db3cf1dc4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009171239
+status: 4
+tags: []
+user_id: jgroat

@@ -1,0 +1,13 @@
+2024-04-01 17:19:14,984 INFO    MainThread:3999 [wandb_setup.py:_flush():68] Configure stats pid to 3999
+2024-04-01 17:19:14,984 INFO    MainThread:3999 [wandb_setup.py:_flush():68] Loading settings from /home/jgroat/.config/wandb/settings
+2024-04-01 17:19:14,984 INFO    MainThread:3999 [wandb_setup.py:_flush():68] Loading settings from /home/jgroat/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-04-01 17:19:14,984 INFO    MainThread:3999 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-04-01 17:19:14,984 WARNING MainThread:3999 [wandb_setup.py:_flush():68] Could not save program above cwd: /home/jgroat/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-04-01 17:19:14,984 INFO    MainThread:3999 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/home/jgroat/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-04-01 17:19:14,984 INFO    MainThread:3999 [wandb_init.py:_log_setup():478] Logging user logs to /home/jgroat/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240401_171914-pykcen6q/logs/debug.log
+2024-04-01 17:19:14,985 INFO    MainThread:3999 [wandb_init.py:_log_setup():479] Logging internal logs to /home/jgroat/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240401_171914-pykcen6q/logs/debug-internal.log
+2024-04-01 17:19:14,985 INFO    MainThread:3999 [wandb_init.py:init():518] calling init triggers
+2024-04-01 17:19:14,985 INFO    MainThread:3999 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-04-01 17:19:14,985 INFO    MainThread:3999 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-04-01 17:19:18,416 WARNING MsgRouterThr:3999 [router.py:message_loop():77] message_loop has been closed

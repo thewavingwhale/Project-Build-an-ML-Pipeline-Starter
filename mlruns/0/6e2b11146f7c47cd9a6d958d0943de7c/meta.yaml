@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6e2b11146f7c47cd9a6d958d0943de7c/artifacts
+end_time: 1712009573970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e2b11146f7c47cd9a6d958d0943de7c
+run_name: bedecked-lamb-589
+run_uuid: 6e2b11146f7c47cd9a6d958d0943de7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009572508
+status: 4
+tags: []
+user_id: jgroat

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a26da36848634926b145ac257f36b695/artifacts
+end_time: 1712009574189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a26da36848634926b145ac257f36b695
+run_name: resilient-koi-774
+run_uuid: a26da36848634926b145ac257f36b695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009570968
+status: 4
+tags: []
+user_id: jgroat

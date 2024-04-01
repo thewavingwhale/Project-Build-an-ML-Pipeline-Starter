@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c45d075d04a49e5b94548c67d24b1bd/artifacts
+end_time: 1712006568287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c45d075d04a49e5b94548c67d24b1bd
+run_name: amusing-flea-43
+run_uuid: 8c45d075d04a49e5b94548c67d24b1bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712006567530
+status: 4
+tags: []
+user_id: jgroat

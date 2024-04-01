@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/31edec411b50477fb0ab2c701e02881a/artifacts
+end_time: 1712009038167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31edec411b50477fb0ab2c701e02881a
+run_name: bittersweet-worm-831
+run_uuid: 31edec411b50477fb0ab2c701e02881a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009037424
+status: 4
+tags: []
+user_id: jgroat

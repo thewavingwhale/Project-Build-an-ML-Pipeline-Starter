@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57267a890041426eb3c7b3041a5880f0/artifacts
+end_time: 1712002335847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57267a890041426eb3c7b3041a5880f0
+run_name: entertaining-rat-541
+run_uuid: 57267a890041426eb3c7b3041a5880f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712002326883
+status: 3
+tags: []
+user_id: jgroat

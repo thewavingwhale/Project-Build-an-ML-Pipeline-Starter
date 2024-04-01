@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/854ea03991074f419601a3e2e092c311/artifacts
+end_time: 1712006736731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 854ea03991074f419601a3e2e092c311
+run_name: orderly-penguin-494
+run_uuid: 854ea03991074f419601a3e2e092c311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712006735968
+status: 4
+tags: []
+user_id: jgroat

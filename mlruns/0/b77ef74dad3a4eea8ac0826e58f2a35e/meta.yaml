@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b77ef74dad3a4eea8ac0826e58f2a35e/artifacts
+end_time: 1712013830754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b77ef74dad3a4eea8ac0826e58f2a35e
+run_name: charming-pig-9
+run_uuid: b77ef74dad3a4eea8ac0826e58f2a35e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712013776862
+status: 3
+tags: []
+user_id: jgroat

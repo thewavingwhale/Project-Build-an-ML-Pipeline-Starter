@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aadaab58f4f44f8abab1be62d516c69f/artifacts
+end_time: 1712009682750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aadaab58f4f44f8abab1be62d516c69f
+run_name: debonair-owl-559
+run_uuid: aadaab58f4f44f8abab1be62d516c69f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009679436
+status: 4
+tags: []
+user_id: jgroat

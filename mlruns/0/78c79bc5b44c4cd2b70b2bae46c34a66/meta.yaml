@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/78c79bc5b44c4cd2b70b2bae46c34a66/artifacts
+end_time: 1712009098042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78c79bc5b44c4cd2b70b2bae46c34a66
+run_name: charming-perch-813
+run_uuid: 78c79bc5b44c4cd2b70b2bae46c34a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009096315
+status: 4
+tags: []
+user_id: jgroat

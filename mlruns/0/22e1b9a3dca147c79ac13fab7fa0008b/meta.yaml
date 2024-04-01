@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/22e1b9a3dca147c79ac13fab7fa0008b/artifacts
+end_time: 1712012387848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22e1b9a3dca147c79ac13fab7fa0008b
+run_name: tasteful-cod-33
+run_uuid: 22e1b9a3dca147c79ac13fab7fa0008b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712012351733
+status: 3
+tags: []
+user_id: jgroat

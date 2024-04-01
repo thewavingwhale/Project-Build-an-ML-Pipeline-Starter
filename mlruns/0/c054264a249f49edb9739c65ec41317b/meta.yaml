@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c054264a249f49edb9739c65ec41317b/artifacts
+end_time: 1712009682531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c054264a249f49edb9739c65ec41317b
+run_name: receptive-loon-496
+run_uuid: c054264a249f49edb9739c65ec41317b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009680985
+status: 4
+tags: []
+user_id: jgroat

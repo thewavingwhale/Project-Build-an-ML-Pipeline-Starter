@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/17e94bd663c84f5ca5457c6609677800/artifacts
+end_time: 1712008982450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17e94bd663c84f5ca5457c6609677800
+run_name: lyrical-finch-996
+run_uuid: 17e94bd663c84f5ca5457c6609677800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712008981679
+status: 4
+tags: []
+user_id: jgroat

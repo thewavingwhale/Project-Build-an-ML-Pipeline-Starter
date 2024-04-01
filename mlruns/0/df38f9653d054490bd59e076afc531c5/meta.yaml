@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/df38f9653d054490bd59e076afc531c5/artifacts
+end_time: 1712009066738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df38f9653d054490bd59e076afc531c5
+run_name: amusing-toad-548
+run_uuid: df38f9653d054490bd59e076afc531c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009065020
+status: 4
+tags: []
+user_id: jgroat

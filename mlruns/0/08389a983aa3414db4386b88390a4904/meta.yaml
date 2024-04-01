@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/08389a983aa3414db4386b88390a4904/artifacts
+end_time: 1712007355099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08389a983aa3414db4386b88390a4904
+run_name: popular-frog-972
+run_uuid: 08389a983aa3414db4386b88390a4904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712007327784
+status: 3
+tags: []
+user_id: jgroat

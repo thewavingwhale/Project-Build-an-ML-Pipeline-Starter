@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/00752aa2419e4e0e8f7691f0847b9a1e/artifacts
+end_time: 1712002335999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00752aa2419e4e0e8f7691f0847b9a1e
+run_name: rumbling-goat-48
+run_uuid: 00752aa2419e4e0e8f7691f0847b9a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712002323788
+status: 3
+tags: []
+user_id: jgroat

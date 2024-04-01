@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cb6b17f9339d485c84cd13dbb8972ba9/artifacts
+end_time: 1712011947450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb6b17f9339d485c84cd13dbb8972ba9
+run_name: burly-whale-970
+run_uuid: cb6b17f9339d485c84cd13dbb8972ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712011850636
+status: 4
+tags: []
+user_id: jgroat

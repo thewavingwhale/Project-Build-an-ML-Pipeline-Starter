@@ -1,0 +1,96 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-04-01T20:13:04.272084",
+    "startedAt": "2024-04-01T20:13:03.872252",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "eda.ipynb",
+    "root": "/home/jgroat/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/thewavingwhale/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "host": "JGOFFICE",
+    "username": "jgroat",
+    "executable": "/home/jgroat/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3895.6030000000005,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3895.603,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 12.104248046875
+    },
+    "memory": {
+        "total": 15.311756134033203
+    }
+}

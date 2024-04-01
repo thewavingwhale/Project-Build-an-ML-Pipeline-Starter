@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eb92bb1567cd460ba5dea12dc61de0ac/artifacts
+end_time: 1712009882168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb92bb1567cd460ba5dea12dc61de0ac
+run_name: puzzled-bug-752
+run_uuid: eb92bb1567cd460ba5dea12dc61de0ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009871896
+status: 4
+tags: []
+user_id: jgroat

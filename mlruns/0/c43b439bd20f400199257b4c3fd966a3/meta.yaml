@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c43b439bd20f400199257b4c3fd966a3/artifacts
+end_time: 1712006535836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c43b439bd20f400199257b4c3fd966a3
+run_name: luminous-crab-207
+run_uuid: c43b439bd20f400199257b4c3fd966a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712006535066
+status: 4
+tags: []
+user_id: jgroat

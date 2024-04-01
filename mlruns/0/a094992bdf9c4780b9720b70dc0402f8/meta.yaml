@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jgroat/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a094992bdf9c4780b9720b70dc0402f8/artifacts
+end_time: 1712009959163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a094992bdf9c4780b9720b70dc0402f8
+run_name: bedecked-hawk-636
+run_uuid: a094992bdf9c4780b9720b70dc0402f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712009949427
+status: 3
+tags: []
+user_id: jgroat
